@@ -1,0 +1,32 @@
+.top {
+    width: 49%;
+    height: 60px;
+background-color: chocolate;
+margin-bottom: 20px;
+padding: 2.8px;
+display: inline-block;
+}
+
+.mid1 {
+    width: 99%;
+    height: 240px;
+background-color: orange;
+margin-bottom: 20px;
+}
+
+.mid2 {
+    width: 32%;
+    height: 115px;
+background-color: blue;
+margin-bottom: 20px;
+padding: 5.5px;
+display: inline-block;
+}
+
+.bot {
+    width: 24%;
+    height: 115px;
+background-color: silver;
+padding: 3.5px;
+display: inline-block;
+}

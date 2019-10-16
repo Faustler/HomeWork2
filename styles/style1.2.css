@@ -1,0 +1,33 @@
+.top td{
+    width: 625px;
+    height: 75px;
+    background-color: chocolate;
+    margin-bottom: 25px;
+    display: inline-block;
+}
+.top #top {
+    margin-right: 5px;}
+
+.mid1 td {
+    width: 1255px;
+    height: 240px;
+    background-color: gold;
+    margin-bottom: 25px;
+    display: inline-block;
+
+}
+.mid2 td {
+    width: 415px;
+    height: 115px;
+    background-color: blue;
+    margin-bottom: 25px;
+    display: inline-block;
+    margin-right: 5px;
+}
+.bot td {
+    width: 24.4%;
+    height: 115px;
+    background-color: silver;
+    display: inline-block;
+    margin-right: 5px;
+}

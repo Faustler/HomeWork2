@@ -1,0 +1,34 @@
+body{
+    width: 700px;
+    height: 700px;
+    border: solid 10px;
+}
+
+div {position: relative;}
+
+.square1{
+    display: inline-block;
+    width: 455px;
+    height: 455px;
+    background-color: red;
+}
+
+.square2{
+    display: inline-block;
+    width: 455px;
+    height: 455px;
+    top: -214px; 
+    left: 245px;
+    background-color: blue;
+
+}
+
+.square3{
+    display: inline-block;
+    width: 455px;
+    height: 455px;
+    top: -799px; 
+    left: 124.5px;
+    background-color: green;
+
+}
